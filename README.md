@@ -1,6 +1,6 @@
 # CMT_CS_Learning
 
-![pr](https://img.shields.io/github/issues-pr-closed/max-studio/CMT_CS_Learning) ![size](https://img.shields.io/github/repo-size/max-studio/CMT_CS_Learning) ![MIT-2.0](https://img.shields.io/github/license/max-studio/CMT_CS_Learning) 
+![pr](https://img.shields.io/github/issues-pr-closed/max-studio/CMT_CS_Learning) ![size](https://img.shields.io/github/repo-size/max-studio/CMT_CS_Learning) ![MIT-2.0](https://img.shields.io/github/license/max-studio/CMT_CS_Learning) [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 
 文章链接：[CMT_CS_Learning](https://github.com/max-studio/CMT_CS_Learning)
 
@@ -12,8 +12,8 @@
 
 ## 项目简介
 
-><center>无知者比有知者更自信，只有无知者才会自信地断言，科学永远不能解决任何问题。<center/>
->   <p align="right">———— 达尔文</p>
+> <center>无知者比有知者更自信，只有无知者才会自信地断言，科学永远不能解决任何问题。<center/>
+>   <p align="right">——— 达尔文</p>
 
 我们希望借助 MaX.计算机研究室的平台，收录历届校友和在校学生的探索经验，涵盖了日常学习、竞赛、升学和工作等方面，并将之编撰成文档，帮助更多的本校学子。带领每位学弟学妹参与一个完整的开源项目，掌握 Git 和 GitHub 协作工具的用法，为今后的职业道路铺下良好的基础。也希望不要让前人踩过的坑，再让后人重复去踩。
 
@@ -29,17 +29,13 @@
 
 ## 版本变化
 
- v1.0-alpha（ October, 9th )
+v1.0-alpha（ October, 9th )
 
-------
+---
 
 - 撰写竞赛、工作、升学三大板块的文档，收录 2020 届毕业论文及相关资源
 - 使用 GitHub + Gitee 双版本仓库，为网络不顺畅的同学提供便利
 - 迭代完善和优化现有的文档结构
-
-## 贡献（按参与时间顺序排列）
-
-[@sunlingbot](https://github.com/orgs/max-studio/people/sunlingbot), [@QuentinHsu](https://github.com/orgs/max-studio/people/QuentinHsu), [@Mu-lnz](https://github.com/orgs/max-studio/people/Mu-lnz), [@hmm1313133](https://github.com/orgs/max-studio/people/hmm1313133), [@chczy1](https://github.com/chczy1)
 
 ## FAQ
 
@@ -50,9 +46,27 @@
 
 ## 许可
 
-本项目使用 [Mozilla Public License](https://github.com/max-studio/CMT_CS_Learning/blob/main/LICENSE) ( MPL ) 开源许可证，任何人都可以在开源的条件下自由使用本项目，若对源代码产生修改，必须在本仓库 [issues](https://github.com/max-studio/CMT_CS_Learning/issues) 栏目提供说明文档。
+本项目使用 [Mozilla Public License](https://github.com/max-studio/CMT_CS_Learning/blob/main/LICENSE)( MPL ) 开源许可证，任何人都可以在开源的条件下自由使用本项目，若对源代码产生修改，必须在本仓库 [issues](https://github.com/max-studio/CMT_CS_Learning/issues) 栏目提供说明文档。
 
+## Contributors ✨
 
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/sunlingbot"><img src="https://avatars0.githubusercontent.com/u/29606689?v=4" width="100px;" alt=""/><br /><sub><b>Nakano Hane</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/pulls?q=is%3Apr+reviewed-by%3Asunlingbot" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=sunlingbot" title="Documentation">📖</a> <a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=sunlingbot" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/QuentinHsu"><img src="https://avatars0.githubusercontent.com/u/21162238?v=4" width="100px;" alt=""/><br /><sub><b>Quentin</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=QuentinHsu" title="Documentation">📖</a> <a href="https://github.com/max-studio/CMT_CS_Learning/pulls?q=is%3Apr+reviewed-by%3AQuentinHsu" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=QuentinHsu" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/Mu-lnz"><img src="https://avatars3.githubusercontent.com/u/50538991?v=4" width="100px;" alt=""/><br /><sub><b>Muiii</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=Mu-lnz" title="Documentation">📖</a> <a href="https://github.com/max-studio/CMT_CS_Learning/pulls?q=is%3Apr+reviewed-by%3AMu-lnz" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/hmm1313133"><img src="https://avatars0.githubusercontent.com/u/35196360?v=4" width="100px;" alt=""/><br /><sub><b>hmm1313133</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=hmm1313133" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/chczy1"><img src="https://avatars3.githubusercontent.com/u/32908275?v=4" width="100px;" alt=""/><br /><sub><b>chczy</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=chczy1" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Liuary"><img src="https://avatars1.githubusercontent.com/u/44187975?v=4" width="100px;" alt=""/><br /><sub><b>Liuary</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/issues?q=author%3ALiuary" title="Bug reports">🐛</a></td>
+  </tr>
+</table>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

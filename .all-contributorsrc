@@ -1,0 +1,74 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 70,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sunlingbot",
+      "name": "Nakano Hane",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29606689?v=4",
+      "profile": "https://segmentfault.com/u/sunlingbot",
+      "contributions": [
+        "review",
+        "doc",
+        "test"
+      ]
+    },
+    {
+      "login": "QuentinHsu",
+      "name": "Quentin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/21162238?v=4",
+      "profile": "https://github.com/QuentinHsu",
+      "contributions": [
+        "doc",
+        "review",
+        "test"
+      ]
+    },
+    {
+      "login": "Mu-lnz",
+      "name": "Muiii",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/50538991?v=4",
+      "profile": "https://github.com/Mu-lnz",
+      "contributions": [
+        "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "hmm1313133",
+      "name": "hmm1313133",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35196360?v=4",
+      "profile": "https://github.com/hmm1313133",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "chczy1",
+      "name": "chczy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32908275?v=4",
+      "profile": "https://github.com/chczy1",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Liuary",
+      "name": "Liuary",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44187975?v=4",
+      "profile": "https://github.com/Liuary",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "CMT_CS_Learning",
+  "projectOwner": "max-studio",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
